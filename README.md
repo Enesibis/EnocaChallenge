@@ -77,3 +77,8 @@
         Ürün stoğu sıfır olduğunda:
             Ürün sepete eklenemez.
             Ürün için sipariş verilemez.
+
+![enoca3](https://github.com/user-attachments/assets/c508f05a-73a9-4c33-828a-57a06240e345)
+![enoca2](https://github.com/user-attachments/assets/444957af-1caa-4927-94c6-71887455180b)
+![enoca1](https://github.com/user-attachments/assets/ca04e4b9-91ce-4fff-97b6-7e48c94abd0e)
+
